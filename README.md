@@ -1,4 +1,21 @@
-# safari-pay-dapp
+# toro-pay-dapp
 
-[Safari Pay Test DApp platforms](https://safari-pay-dapp.netlify.app/)
+The files in `src` can be served on a local development server via Gulp to test the popover.
 
+You can also test the popover at https://toro-pay-dapp.netlify.app/ That dev server is synced with the `src` folder.
+
+## Install
+
+```sh
+npm i
+```
+
+## Local Dev Server
+
+1. Run the following command:
+
+```sh
+npx gulp
+```
+
+2. Navigate to http://localhost:3000/ in your browser.
